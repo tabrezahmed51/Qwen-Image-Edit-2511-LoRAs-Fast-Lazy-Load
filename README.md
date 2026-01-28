@@ -13,7 +13,7 @@
   - Upscaler: High-resolution enhancement
   - Style-Transfer: Apply artistic style from reference
   - Light-Migration: Match lighting/color tone
-  - Manga-Tone: Black-and-white manga aesthetic
+  - Manga-Tone: Black-and-white manga aesthetic & more.
 - **Rapid Inference**: Flash Attention 3 enabled; 4-step default with bfloat16.
 - **Auto-Resizing**: Preserves aspect ratio up to 1024px max edge (multiples of 8).
 - **Custom Theme**: OrangeRedTheme with clean, responsive layout.
